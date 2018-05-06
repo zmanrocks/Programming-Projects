@@ -1,0 +1,2 @@
+C:\Users\lemon\Desktop\c# projects\ravioli\ravioli\obj\Debug\ravioli.csprojResolveAssemblyReference.cache
+C:\Users\lemon\Desktop\c# projects\ravioli\ravioli\obj\Debug\ravioli.csproj.CoreCompileInputs.cache
