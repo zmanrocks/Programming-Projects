@@ -39,13 +39,23 @@ namespace ravioli
             health = Health;
             damage = Damage;
         }
-        public Player P1 = new Player("Zach", 100, 20);
+        
     }
     class Program
     {
         static void Main(string[] args)
         {
-             
+            bool dead;
+            Player P1 = new Player("Zach", 100, 20);
+            P1.
+    
         }
+            
     }
-}
+            
+        }
+        
+             
+        
+    
+
