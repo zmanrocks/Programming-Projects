@@ -6,56 +6,86 @@ using System.Threading.Tasks;
 
 namespace ravioli
 {
-    
+
     public class Player
     {
+        public string Name { get; set; }
+        public int Health { get; set; } = 100;
+        public int Damage { get; set; }
+        public bool IsAlive { get; set; }
 
-        private string Name;
-        private int Health = 100;
-        private int Damage;
         public Player(string name, int health, int damage)
         {
-            name = Name;
-            health = Health;
-            damage = Damage;
+            Name = name;
+            Health = health;
+            Damage = damage;
+            IsAlive = true;
         }
-        
+
+        public void TakeDamageFromEnemy(Enemy enemy)
+        {
+            if (IsAlive)
+            {
+                Health -= enemy.Damage;
+                if (Health < 0)
+                {
+                    IsAlive = false;
+                   
+                }
+            }
+        }
+
+        public void DoDamageToEnemy(Enemy enemy)
+        {
+            if (enemy.IsAlive)
+            {
+                enemy.Health -= Damage;
+                if (Health < 0)
+                {
+                    IsAlive = false;
+                }
+            }
+        }
     }
+
     public class Enemy
     {
-        public void enemyTakeDamage()
-        {
-            int takenDamage;
-            
 
-        }
         private string Name;
-        private int Health = 100;
-        private int Damage;
+        public int Health = 100;
+        public int Damage;
         public string enemyMessages;
+        public bool IsAlive { get; set; }
+
         public Enemy(string name, int health, int damage)
         {
-            name = Name;
-            health = Health;
-            damage = Damage;
+            Name = name;
+            Health = health;
+            Damage = damage;
+            IsAlive = true;
         }
-        
     }
-    class Program
+
+
+    public class Program
     {
         static void Main(string[] args)
         {
-            bool dead;
-            Player P1 = new Player("Zach", 100, 20);
-            P1.
-    
+            Player playerOne = new Player("Zach", 100, 20);
+            Enemy enemyOne = new Enemy("Trogg", 15, 5);
+            Enemy enemyTwo = new Enemy("Dragon", 1000, 50);
+            playerOne.TakeDamageFromEnemy(enemyTwo);
+            playerOne.TakeDamageFromEnemy(enemyOne);
+            playerOne.DoDamageToEnemy(enemyOne);
+            playerOne.TakeDamageFromEnemy(enemyTwo);
+            Console.ReadLine();
         }
-            
     }
-            
-        }
-        
-             
-        
-    
+}
+
+
+
+
+
+
 
