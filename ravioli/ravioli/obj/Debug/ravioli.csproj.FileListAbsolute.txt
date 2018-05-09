@@ -7,3 +7,10 @@ C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\obj\Debug\r
 C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\obj\Debug\ravioli.csproj.CoreCompileInputs.cache
 C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\obj\Debug\ravioli.exe
 C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\obj\Debug\ravioli.pdb
+C:\Users\Public\Documents\Programming Projects\Programming-Projects\ravioli\ravioli\bin\Debug\ravioli.exe.config
+C:\Users\Public\Documents\Programming Projects\Programming-Projects\ravioli\ravioli\bin\Debug\ravioli.exe
+C:\Users\Public\Documents\Programming Projects\Programming-Projects\ravioli\ravioli\bin\Debug\ravioli.pdb
+C:\Users\Public\Documents\Programming Projects\Programming-Projects\ravioli\ravioli\obj\Debug\ravioli.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Programming Projects\Programming-Projects\ravioli\ravioli\obj\Debug\ravioli.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Programming Projects\Programming-Projects\ravioli\ravioli\obj\Debug\ravioli.exe
+C:\Users\Public\Documents\Programming Projects\Programming-Projects\ravioli\ravioli\obj\Debug\ravioli.pdb
