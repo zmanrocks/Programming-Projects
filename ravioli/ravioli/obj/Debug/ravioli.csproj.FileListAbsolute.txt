@@ -1,2 +1,9 @@
 C:\Users\lemon\Desktop\c# projects\ravioli\ravioli\obj\Debug\ravioli.csprojResolveAssemblyReference.cache
 C:\Users\lemon\Desktop\c# projects\ravioli\ravioli\obj\Debug\ravioli.csproj.CoreCompileInputs.cache
+C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\bin\Debug\ravioli.exe.config
+C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\bin\Debug\ravioli.exe
+C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\bin\Debug\ravioli.pdb
+C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\obj\Debug\ravioli.csprojResolveAssemblyReference.cache
+C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\obj\Debug\ravioli.csproj.CoreCompileInputs.cache
+C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\obj\Debug\ravioli.exe
+C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\obj\Debug\ravioli.pdb

@@ -1,0 +1,6 @@
+C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\bin\Release\ravioli.exe.config
+C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\bin\Release\ravioli.exe
+C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\bin\Release\ravioli.pdb
+C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\obj\Release\ravioli.csproj.CoreCompileInputs.cache
+C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\obj\Release\ravioli.exe
+C:\Users\lemon\Documents\GitHub\Programming-Projects\ravioli\ravioli\obj\Release\ravioli.pdb
